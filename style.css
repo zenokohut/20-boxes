@@ -33,3 +33,11 @@
     height: 30px;
     background: #643748;
 }
+
+div:hover {
+    background: black;
+}
+
+section:hover {
+    background: white;
+}
