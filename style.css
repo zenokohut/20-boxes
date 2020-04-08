@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.box {
+    margin-bottom: 8px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 500px;
+    height: 90px;
+    align-items: center;
+
+}
+
+.up {
+    border: 5px solid #4284f4;
+}
+
+.down {
+    border: 5px solid #4284f4;
+    background: #FC6347;
+}
+
+.blue {
+    width: 30px;
+    height: 30px;
+    background: #4284f4;
+}
+
+.purple {
+    width: 30px;
+    height: 30px;
+    background: #643748;
+}
